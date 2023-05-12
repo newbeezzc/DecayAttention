@@ -28,7 +28,7 @@ We enable the model to generate robust forecasts close to the true values withou
 ## Get Started
 
 1. Install Python 3.6, PyTorch 1.9.0.
-2. Download data. You can obtain all the six benchmarks from [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/e1ccfff39ad541908bae/) or [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing).
+2. Download data. You can obtain all the six benchmarks from [Aliyun Drive](https://www.aliyundrive.com/s/v7kerjpBwPL) or [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing).
 3. Train the model. We provide the experiment scripts of all benchmarks and all three baseline models under the folder `./scripts` as examples. You can reproduce the experiment results using commands like:
 
 ```bash
