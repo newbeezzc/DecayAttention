@@ -39,7 +39,7 @@ bash ./scripts/Traffic_script/Transformer_Delay.sh
 bash ./scripts/Weather_script/Transformer_Delay.sh
 bash ./scripts/ILI_script/Transformer_Delay.sh
 ```
-We only list scripts that train the improved Transformer. You can see the folder `./scripts` for others.
+We only list scripts here that training the improved Transformer. You can see the folder `./scripts` for others.
 
 ## Main Results
 
@@ -56,7 +56,6 @@ If you find this repo useful, please cite our paper.
 @inproceedings{zhang2023,
   title={An improved self-attention for long sequence timeseries data forecasting with missing values},
   author={Zhi-cheng ZHANG, Yong WANG, Jian-jian PENG, Jun-ting DUAN},
-  booktitle={},
   year={2023}
 }
 ```
@@ -66,6 +65,8 @@ If you find this repo useful, please cite our paper.
 We appreciate the following github repos a lot for their valuable code base or datasets:
 
 https://github.com/zhouhaoyi/Informer2020
+
+https://github.com/thuml/Autoformer
 
 https://github.com/zhouhaoyi/ETDataset
 
